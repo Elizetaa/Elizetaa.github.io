@@ -585,3 +585,25 @@
 	};
 
 })(jQuery);
+
+
+function initCopyToClipboard() {
+	document.querySelectorAll('.copy-to-clipboard').forEach(el => {
+		el.addEventListener('click', function (e) {
+			e.preventDefault();
+
+			const text = this.dataset.copy;
+
+			navigator.clipboard.writeText(text).then(() => {
+				const label = this.querySelector('.label');
+				if (!label) return;
+
+				const original = label.textContent;
+				label.textContent = 'Copiado!';
+				setTimeout(() => label.textContent = original, 1500);
+			});
+		});
+	});
+}
+
+
