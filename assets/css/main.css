@@ -600,9 +600,11 @@ input, select, textarea {
 
 /* Icon */
 
-    #header img{ /* Configuração para icones do header */
+    #header img, #header i{ /* Configuração para icones do header */
         height: 50px;
+		font-size: 50px;
     }	
+
 
 	.icon {
 		text-decoration: none;
