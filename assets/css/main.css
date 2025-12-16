@@ -196,6 +196,7 @@ input, select, textarea {
 			width: max-content;
 			padding-bottom: 0.5rem;
 			margin: 0 0 2rem 0;
+			max-width: 100%;
 		}
 
 	h1 {
@@ -600,11 +601,12 @@ input, select, textarea {
 
 /* Icon */
 
-	#header img, #header .logo i {
-		font-size: 25px;
+	#habilitiesIcons {
+		margin-top: 2rem;
+		margin-bottom: 2rem;
 	}
 
-    #header img, #header .content i{ /* Configuração para icones do header */
+    #habilitiesIcons img, #habilitiesIcons i{ /* Configuração para icones do header */
         height: 50px;
 		font-size: 50px;
     }	
@@ -1083,7 +1085,6 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
-		white-space: nowrap;
 	}
 
 		input[type="submit"]:hover,
@@ -1624,7 +1625,7 @@ input, select, textarea {
 				cursor: pointer;
 				text-indent: 4rem;
 				overflow: hidden;
-				white-space: nowrap;
+
 			}
 
 				#main article .close:before {
