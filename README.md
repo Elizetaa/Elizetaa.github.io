@@ -1,10 +1,11 @@
-# Portfólio Pessoal - Luiz Felipe Elizeta
+# Luiz Felipe Elizeta
+### Portfólio Pessoal
 
 > "Transformando curiosidade em código ☕"
 
 Bem-vindo ao repositório do meu site pessoal! Este projeto serve como hub central para apresentar minha trajetória acadêmica em Sistemas de Informação, meus projetos de pesquisa em **Inteligência Artificial** e **Machine Learning**, além das minhas aventuras no desenvolvimento Web.
 
-🔗 **Acesse online:** [Insira a URL do seu GitHub Pages aqui]
+🔗 **Acesse online:** [elizetaa.github.io](https://elizetaa.github.io)
 
 ---
 
@@ -48,7 +49,7 @@ O portfólio destaca projetos desenvolvidos com as seguintes tecnologias:
 Abaixo estão alguns dos projetos detalhados neste portfólio:
 
 ### 🤖 Inteligência Artificial & Dados
-* **[NeuroGE](https://sol.sbc.org.br/index.php/eries/article/view/38232):** Pesquisa publicada utilizando Neuroevolução Gramatical e a linguagem SANDL para arquitetura de Redes Neurais.
+* **[NeuroGE](https://sol.sbc.org.br/index.php/eries/article/view/38232):** Pesquisa publicada sobre Neuroevolução Gramatical utilizando a linguagem SANDL para geração de arquiteturas de Redes Neurais.
 * **[Classificação EuroSAT](https://github.com/Elizetaa/Algoritmo-de-CNN-com-Transfer-Learning):** Visão computacional com CNN (ResNet-50) e Transfer Learning, atingindo ~98% de acurácia.
 * **[Lab de Séries Temporais](https://github.com/Elizetaa/Otimizacao-de-Gas-com-Neuro-Evolucao):** Comparativo entre métodos estatísticos (ARIMA) e AutoML.
 
@@ -60,26 +61,7 @@ Abaixo estão alguns dos projetos detalhados neste portfólio:
 ### 🤝 Impacto Social
 * **Mulheres Mil:** Atuação como monitor e professor substituto na capacitação tecnológica de mulheres em vulnerabilidade social.
 
----
-
-## ⚙️ Como executar este site localmente
-
-Este é um site estático. Para visualizá-lo em sua máquina:
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/Elizetaa/SEU-REPOSITORIO.git](https://github.com/Elizetaa/SEU-REPOSITORIO.git)
-    ```
-2.  **Acesse a pasta:**
-    ```bash
-    cd SEU-REPOSITORIO
-    ```
-3.  **Abra o arquivo:**
-    Dê um clique duplo no arquivo `index.html` ou use uma extensão como "Live Server" no VS Code.
-
----
-
-## 🎨 Créditos e Design
+## 🎨 Créditos
 
 * Design base: **Dimension** por [HTML5 UP](https://html5up.net).
 * Ícones: [Font Awesome](https://fontawesome.com) e [Devicon](https://devicon.dev).
